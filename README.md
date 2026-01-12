@@ -1186,7 +1186,7 @@ SOFTWARE.
 - LinkedIn: [Anderson](https://www.linkedin.com/in/anderson-pires-97131b247)
 - Email: andersonpiresdacruz@gmail.com
 
-**Link do Projeto:** [https://github.com/seu-usuario/automacao-shorts-youtube](https://github.com/AndersonTechEnthusiast/ShortForge)
+**Link do Projeto:** [https://github.com/AndersonTechEnthusiast/ShortForge](https://github.com/AndersonTechEnthusiast/ShortForge)
 
 ## 🙏 Agradecimentos
 
@@ -1216,3 +1216,4 @@ SOFTWARE.
   <sub>⭐ Se este projeto foi útil para você, considere dar uma estrela no GitHub!</sub>
 
 </p>
+
