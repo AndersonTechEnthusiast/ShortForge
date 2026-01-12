@@ -1182,11 +1182,11 @@ SOFTWARE.
 
 **Anderson** - Desenvolvedor Python
 
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [Seu Nome](https://linkedin.com/in/seu-perfil)
-- Email: anderson@example.com
+- GitHub: [@AndersonTechEnthusiast](https://github.com/AndersonTechEnthusiast)
+- LinkedIn: [Anderson](https://www.linkedin.com/in/anderson-pires-97131b247)
+- Email: andersonpiresdacruz@gmail.com
 
-**Link do Projeto:** [https://github.com/seu-usuario/automacao-shorts-youtube](https://github.com/seu-usuario/automacao-shorts-youtube)
+**Link do Projeto:** [https://github.com/seu-usuario/automacao-shorts-youtube](https://github.com/AndersonTechEnthusiast/ShortForge)
 
 ## 🙏 Agradecimentos
 
@@ -1214,4 +1214,5 @@ SOFTWARE.
 
 <p align="center">
   <sub>⭐ Se este projeto foi útil para você, considere dar uma estrela no GitHub!</sub>
+
 </p>
